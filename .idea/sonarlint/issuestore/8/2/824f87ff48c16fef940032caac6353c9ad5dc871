@@ -1,0 +1,9 @@
+
+_
+java:S2147:"DCombine this catch with the one at line 52, which has the same body.(‰•’şÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(È¿…è
+Z
+java:S21478"DCombine this catch with the one at line 52, which has the same body.(Í½°†
+Z
+java:S21476"DCombine this catch with the one at line 52, which has the same body.(Ãôş•
+s	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(Ë±øÿÿÿÿÿ

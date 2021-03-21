@@ -1,0 +1,10 @@
+
+Š
+java:S4165"hRemove this useless assignment; "connection" already holds the assigned value along all execution paths.(½Ãíòúÿÿÿÿ8Õç‘‹…/
+‡
+java:S1192G"eDefine a constant instead of duplicating this literal "GROUP BY \"lastName\",\"firstName\"
+" 3 times.(¸•‰öúÿÿÿÿ8ä˜Ï„…/
+“
+java:S1130"qRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from constructor's body.(¾ª§¯ýÿÿÿÿ8¬´‘‹…/
+•
+java:S1130"sRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from constructor's body.(¾ª§¯ýÿÿÿÿ8¬´‘‹…/
